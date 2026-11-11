@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #fce4ec;
+            text-align: center;
+            margin: 0;
+        }
+
+        header {
+            background-color: #ad1457;
+            color: white;
+            padding: 25px;
+        }
+
+        h2 {
+            color: #ad1457;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        button {
+            background-color: #ad1457;
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 5px;
+        }
+
+        footer {
+            background-color: #ad1457;
+            color: white;
+            padding: 15px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to My Website</h1>
+        <p>My First Website Using HTML and CSS</p>
+    </header>
+
+    <h2>About Us</h2>
+    <p>Welcome to my website. This is my first web project.</p>
+
+    <h2>Our Services</h2>
+    <p>Web Designing</p>
+    <p>HTML and CSS</p>
+    <p>Website Development</p>
+
+    <button>Learn More</button>
+
+    <footer>
+        <p>© 2026 My Website | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
